@@ -1,0 +1,29 @@
+*{
+     padding: 0px;
+     margin: 0px;
+}
+
+
+body{
+     background-color: black;
+
+}
+
+.container{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+#img-carrosel{
+     width: 98%;
+
+ 
+}
+
+li{
+    background-color: rgb(18, 18, 19);
+}
+
+
+
