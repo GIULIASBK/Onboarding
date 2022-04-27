@@ -13,10 +13,15 @@ body{
      display: flex;
      align-items: center;
      justify-content: center;
+     width: 98%;
 }
 
 #img-carrosel{
+     margin-top: 15px;
+     margin-left: 10px;
+     top: 10%;
      width: 98%;
+
 
  
 }
